@@ -1,2 +1,2 @@
 # machine-learning-coursera
-machine learning course on coursera weeks 10 and 11 quizzes
+machine learning course for the final 11th week
